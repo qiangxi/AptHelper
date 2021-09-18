@@ -1,0 +1,5 @@
+include ':app'
+include ':demo-meta'
+include ':demoProcessor'
+include ':apt-helper'
+rootProject.name = "AptHelper"
